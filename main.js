@@ -10,8 +10,8 @@ const scale = ["scale(1)", "scale(0.5)"];
 const translate = ["translateX(200px)", "translateY(200px)", "translateX(300px)"];
 
 const style = {
-  width: "200px",
-  height: "200px",
+  width: "100px",
+  height: "100px",
   borderRadius: "1px solid black",
   transition: "4s linear",
   margin: "1em",
